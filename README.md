@@ -21,6 +21,7 @@ I am a student with experience as in Data Engineering & Front-end Development
 -----------------------------------------------------------------------------
 
 I have been doing my masters in computer science @Hamburg Universität in Germany since 2021, after 3 years of experience as a Software Tester in India. As a master student I did an internship and worked part time to gain real-world experience in Data engineering and front-end development. Currently I am also working on a real-world website for my client for their E-commerce business.
+Natural language Processing has also been a important field of my Master Program. The Master thesis I am currently working on is based on sentiment analysis of German texts.
 
 * 🌍  I'm based in Hamburg, Germany
 * ✉️  You can contact me at [hinasamreen541@gmail.com](mailto:hinasamreen541@gmail.com)
